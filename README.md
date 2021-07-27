@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @bethanydata
+- 👀 I’m interested in social science data
+- 🌱 I’m currently learning R
